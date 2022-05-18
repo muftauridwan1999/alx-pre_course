@@ -3,3 +3,4 @@ git branch
 git push
 git clone
 git add .
+git pull
